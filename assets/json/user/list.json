@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "김철수",
+    "representativeImage": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg",
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+    ],
+    "recommenders": [
+      {
+        "id": 2,
+        "comment": "이 친구 정말 최고임. 내가 남자였으면 바로 고백각."
+      },
+      {
+        "id": 2,
+        "comment": "세젤예 여신"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "김영희",
+    "representativeImage": "https://cdn.pixabay.com/photo/2018/03/06/22/57/portrait-3204843_960_720.jpg",
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/03/06/22/57/portrait-3204843_960_720.jpg"
+    ],
+    "recommenders": [
+      {
+        "id": 2,
+        "comment": "이 친구 정말 최고임. 내가 남자였으면 바로 고백각."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "장동건",
+    "representativeImage": "https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_960_720.jpg",
+    "images": [
+      "https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_960_720.jpg"
+    ],
+    "recommenders": [
+      {
+        "id": 2,
+        "comment": "이 친구 정말 최고임. 내가 남자였으면 바로 고백각."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "김철수",
+    "representativeImage": "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg",
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/01/21/14/16/woman-3096664_960_720.jpg"
+    ],
+    "recommenders": [
+      {
+        "id": 2,
+        "comment": "이 친구 정말 최고임. 내가 남자였으면 바로 고백각."
+      }
+    ]
+  }
+]

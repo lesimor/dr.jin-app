@@ -1,0 +1,31 @@
+class AppRoutes {
+  static const INITIAL_PAGE = '/';
+  static const LOGIN = '/login';
+  static const LOGIN_WITH_EMAIL = '/login_with_email';
+  static const REGISTRATION = '/registration';
+  static const HOME = '/home';
+  static const CONTENT_DETAIL = '/content_detail';
+  static const CLUB_EDITOR = '/club_editor';
+  static const BOOKDAY_LIST = '/product/bookday';
+  static const SOCIALDAY_LIST = '/product/socialday';
+  static const CONTENT_LIST = '/club/list';
+  static const COUSELOR_LIST = '/couselor/list';
+  static const CHATROOM = '/chatroom';
+  static const FEED = '/feed';
+  static const MY_PROFILE = '/my_profile';
+  static const USER_PROFILE = '/user_profile';
+  static const SETTINGS = '/my_profile/settings';
+  static const PROFILE_EDITOR = '/my_profile/profile_editor';
+  static const SERVICE_CENTER = '/my_profile/settings/service_center';
+  static const BLOCKING_MEMBERS = '/my_profile/settings/blocking_members';
+  static const WEBVIEW = '/webview';
+  static const PRODUCT_VIEWER = '/product_viewer';
+  static const PRODUCT_SETTINGS = '/product_settings';
+  static const PRODUCT_MEMBER_MANAGER = '/product_settings/member_manager';
+  static const PRODUCT_REVIEW = '/product/review';
+  static const PRODUCT_REPORT = '/proudct/report';
+  static const BOOKDAY_EDITOR = '/product/bookday/editor';
+  static const SOCIALDAY_EDITOR = '/product/socialday/editor';
+  static const COLORS = '/colors';
+  static const TYPOGRAPHY = '/typography';
+}

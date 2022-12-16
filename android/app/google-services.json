@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "153049248445",
+    "project_id": "book-a-rabbit",
+    "storage_bucket": "book-a-rabbit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153049248445:android:bfb2f7a472e4bdaeb3fdd4",
+        "android_client_info": {
+          "package_name": "com.dchainconnect.bookrabbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153049248445-gqmp20u3h1searbj3kot88oao7gk0rmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcWncBcJOmQJ7DYiJCTZg8sjNRL4oPJ3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153049248445-gqmp20u3h1searbj3kot88oao7gk0rmd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153049248445-3fhuu7jmni30h15la5b4picsf40pc9f5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dchainconnect.bookrabbit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

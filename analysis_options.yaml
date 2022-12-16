@@ -1,0 +1,14 @@
+analyzer:
+  errors:
+    # require_trailing_commas: error
+    unused_field: error
+    unnecessary_import: error
+
+linter:
+  rules:
+    require_trailing_commas: true
+    unused_field: true
+    unnecessary_import: true
+    use_super_parameters: true
+    always_use_package_imports: true
+    avoid_print: true

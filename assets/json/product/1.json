@@ -1,0 +1,97 @@
+{
+  "id": 16,
+  "participations": [
+    {
+      "id": 3,
+      "user": null,
+      "product": {
+        "id": 16,
+        "title": "[책토 정규모임] 명랑한 은둔자",
+        "chat_url": "https://open.kakao.com/o/gLtPUVod",
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/book-a-rabbit.appspot.com/o/210731%20%EB%AA%85%EB%9E%91%ED%95%9C%20%EC%9D%80%EB%91%94%EC%9E%90.png?alt=media&token=ec6c98c9-3865-43ec-83ef-1b4e0d605732",
+        "price": 5000,
+        "description": "책토 정기모임 \r\n'명랑한 은둔자'\r\n오프라인(4인)과 온라인으로 만나 모임 진행합니다.\r\n\r\n*거리두기 4단계 지침으로 인해 오프라인 모임은 4인까지만 모집하는 점 \r\n양해바랍니다.",
+        "d_recommendation": null,
+        "d_plan": null,
+        "d_location": null,
+        "d_participation": null,
+        "d_version": 1,
+        "datetime": "2021-07-31T14:30:00",
+        "address1": "종로 유쾌한발상",
+        "participants_number": 4,
+        "allowed": true,
+        "adjusted": true,
+        "created_at": "2022-03-01T13:58:38.271692",
+        "category": 1,
+        "creator": 1,
+        "likes": []
+      },
+      "chatroom_joined": false,
+      "created_at": "2022-03-01T13:58:38.242149"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 1,
+        "nickname": "임거묵",
+        "profile_thumbnail": "",
+        "introduction": ""
+      },
+      "product": {
+        "id": 16,
+        "title": "[책토 정규모임] 명랑한 은둔자",
+        "chat_url": "https://open.kakao.com/o/gLtPUVod",
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/book-a-rabbit.appspot.com/o/210731%20%EB%AA%85%EB%9E%91%ED%95%9C%20%EC%9D%80%EB%91%94%EC%9E%90.png?alt=media&token=ec6c98c9-3865-43ec-83ef-1b4e0d605732",
+        "price": 5000,
+        "description": "책토 정기모임 \r\n'명랑한 은둔자'\r\n오프라인(4인)과 온라인으로 만나 모임 진행합니다.\r\n\r\n*거리두기 4단계 지침으로 인해 오프라인 모임은 4인까지만 모집하는 점 \r\n양해바랍니다.",
+        "d_recommendation": null,
+        "d_plan": null,
+        "d_location": null,
+        "d_participation": null,
+        "d_version": 1,
+        "datetime": "2021-07-31T14:30:00",
+        "address1": "종로 유쾌한발상",
+        "participants_number": 4,
+        "allowed": true,
+        "adjusted": true,
+        "created_at": "2022-03-01T13:58:38.271692",
+        "category": 1,
+        "creator": 1,
+        "likes": []
+      },
+      "chatroom_joined": false,
+      "created_at": "2022-03-01T13:58:38.242149"
+    }
+  ],
+  "creator": {
+    "id": 1,
+    "nickname": "임거묵",
+    "profile_thumbnail": "",
+    "introduction": ""
+  },
+  "category": {
+    "id": 1,
+    "name": "북데이",
+    "fee_required": true,
+    "description": "독서 모임"
+  },
+  "title": "[책토 정규모임] 명랑한 은둔자",
+  "chat_url": "https://open.kakao.com/o/gLtPUVod",
+  "thumbnail": "https://firebasestorage.googleapis.com/v0/b/book-a-rabbit.appspot.com/o/210731%20%EB%AA%85%EB%9E%91%ED%95%9C%20%EC%9D%80%EB%91%94%EC%9E%90.png?alt=media&token=ec6c98c9-3865-43ec-83ef-1b4e0d605732",
+  "price": 5000,
+  "description": "책토 정기모임 \r\n'명랑한 은둔자'\r\n오프라인(4인)과 온라인으로 만나 모임 진행합니다.\r\n\r\n*거리두기 4단계 지침으로 인해 오프라인 모임은 4인까지만 모집하는 점 \r\n양해바랍니다.",
+  "d_recommendation": null,
+  "d_plan": null,
+  "d_location": null,
+  "d_participation": null,
+  "d_version": 1,
+  "datetime": "2021-07-31T14:30:00",
+  "address1": "종로 유쾌한발상",
+  "participants_number": 4,
+  "allowed": true,
+  "adjusted": true,
+  "created_at": "2022-03-01T13:58:38.271692",
+  "likes": [],
+  "total_member_ids": [1, null, 1],
+  "can_cancel": false
+}
