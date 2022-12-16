@@ -1,19 +1,25 @@
-# 북래빗 (BookRabbit)
+# Dr.Jin Application
 
-- 웹페이지: https://book-rabbit.com
-- 앱스토어(ios): https://apps.apple.com/kr/app/북래빗/id1637196054
-- 플레이스토어(안드로이드): https://play.google.com/store/apps/details?id=com.dchainconnect.bookrabbit
+## 애플리케이션 실행하기
+1. 시뮬레이터 실행
+2. 아래의 코드를 실행
+    
+    ```
+    flutter run
+    ```
 
-## 컨벤션
+## 안드로이드 애플리케이션 빌드하기
+1. 아래의 코드를 실행
+    
+    ```
+    flutter build apk
+    ```
+2. 빌드된 apk 파일은 build/app/outputs/apk/release/app-release.apk 에 생성됨
 
-### linter
-
-```
-dart fix --apply
-```
-
-### import sorter
-
-```
-flutter pub run import_sorter:main
-```
+## Ios 애플리케이션 빌드하기
+1. 아래의 코드를 실행
+    
+    ```
+    flutter build ios
+    ```
+2. 빌드된 ipa 파일은 build/ios/iphoneos/Runner.app 에 생성됨
